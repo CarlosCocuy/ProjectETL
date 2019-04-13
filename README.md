@@ -5,6 +5,7 @@ Car Data
 Members: Carlos Cocuy, Rebeca Rodriguez, John Fowler 
 ## Source of Data
 Dataset is a csv file on Car Sales. (link: https://www.kaggle.com/hsinha53/car-sales)
+And a csv on Traffic Violations (link: https://catalog.data.gov/dataset/traffic-violations-56dda)
 Goals to achieve:
  - Create table on manufacturer by sales
  - Create a table on car details (Horsepower, Wheelbase, Width, Length, Curb weight,Fuel capacity, Fuel efficiency) for each make
