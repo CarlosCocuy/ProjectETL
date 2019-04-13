@@ -16,7 +16,7 @@ Goals to achieve:
  - Filtering and dropping columns to make all tables
 
 ## Final Product Database:
-Relational Database: MySQL/SQLite
+NoSQL Database: MongoDB
 ## Final Tables
   -	Table on manufacturer by sales
   - Table on car details (Horsepower, Wheelbase, Width, Length, Curb weight,Fuel capacity, Fuel efficiency) for each make
