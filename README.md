@@ -1,4 +1,5 @@
 # ETL Project Proposal
+## RUN THE IPYNB FILES
 Data Analytics Bootcamp Class Project
 
 Car Data
